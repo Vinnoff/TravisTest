@@ -1,0 +1,4 @@
+source 'https://rubygem.org'
+
+gem 'cocoapods'
+gem 'fastlane'
